@@ -1,0 +1,28 @@
+{
+  "name": "oss-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samilywang/oss-cli.git"
+  },
+  "keywords": [],
+  "author": "SamilyWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samilywang/oss-cli/issues"
+  },
+  "homepage": "https://github.com/samilywang/oss-cli#readme",
+  "dependencies": {
+    "ali-oss": "^6.16.0",
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {
+    "@types/ali-oss": "^6.0.10",
+    "@types/node": "^16.9.0",
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  }
+}
